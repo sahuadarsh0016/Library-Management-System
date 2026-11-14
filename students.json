@@ -1,0 +1,32 @@
+[
+    {
+        "student_id": "A002",
+        "student_name": "ADARSH SAHU",
+        "department": "CSE",
+        "Contact": "8962288996"
+    },
+    {
+        "student_id": "A001",
+        "student_name": "SONU",
+        "department": "AI\\DS",
+        "Contact": "100"
+    },
+    {
+        "student_id": "M101",
+        "student_name": "AADI",
+        "department": "CSE",
+        "Contact": "112233"
+    },
+    {
+        "student_id": "M5002",
+        "student_name": "ADARSH ",
+        "department": "CSE",
+        "Contact": "896228****"
+    },
+    {
+        "student_id": "M16",
+        "student_name": "ADARSH 1",
+        "department": "CSE",
+        "Contact": "896228****"
+    }
+]
